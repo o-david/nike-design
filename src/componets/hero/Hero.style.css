@@ -1,0 +1,4 @@
+.hero-bg{
+    background: url(<path-to-image>), 
+    lightgray 50% / cover no-repeat;
+}
